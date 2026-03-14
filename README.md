@@ -83,6 +83,7 @@ load_taxi_model
 ```
 
 Each task passes data between stages using **Airflow XCom**.
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/f056d3e9-32ad-4273-9bf7-e42061a4d0b9" />
 
 ---
 
@@ -91,7 +92,7 @@ Each task passes data between stages using **Airflow XCom**.
 | Member   | Task                               |
 | -------- | ---------------------------------- |
 | PANNATHORN (175) | Data Ingestion                     |
-| PANNATHORN (175) | Data Cleaning                      |
+| PHONLAWIT (584) | Data Cleaning                      |
 | PHONRAWAT (249) | Data Transformation & Data Loading |
 
 ---
@@ -160,6 +161,6 @@ After the pipeline runs successfully:
   * `dim_time`
   * `dim_payment`
   * `fact_trips`
-
+<img width="1919" height="988" alt="image (1)" src="https://github.com/user-attachments/assets/6c202163-bf2f-45c6-82ff-936e0da06b22" />
 ---
 
