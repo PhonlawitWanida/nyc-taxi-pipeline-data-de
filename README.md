@@ -90,8 +90,8 @@ Each task passes data between stages using **Airflow XCom**.
 
 | Member   | Task                               |
 | -------- | ---------------------------------- |
-| Member 1 | Data Ingestion                     |
-| Member 2 | Data Cleaning                      |
+| PANNATHORN (175) | Data Ingestion                     |
+| PANNATHORN (175) | Data Cleaning                      |
 | PHONRAWAT (249) | Data Transformation & Data Loading |
 
 ---
