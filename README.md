@@ -163,4 +163,4 @@ After the pipeline runs successfully:
   * `fact_trips`
 <img width="1919" height="988" alt="image (1)" src="https://github.com/user-attachments/assets/6c202163-bf2f-45c6-82ff-936e0da06b22" />
 ---
-
+Dashboard.png
